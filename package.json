@@ -25,5 +25,8 @@
     "koa-router": "3.7.0",
     "mocha": "2.0.1",
     "supertest-as-promised": "1.0.0"
+  },
+  "peerDependencies": {
+    "koa-router": "3.x"
   }
 }
