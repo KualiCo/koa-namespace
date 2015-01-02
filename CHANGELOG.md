@@ -1,3 +1,9 @@
+v1.0.2 - Fri, 02 Jan 2015 20:45:58 GMT
+--------------------------------------
+
+- [f2a3ccb](../../commit/f2a3ccb) [fixed] removed unneded dependencies
+
+
 v1.0.1 - Fri, 12 Dec 2014 17:16:34 GMT
 --------------------------------------
 

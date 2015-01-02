@@ -1,6 +1,6 @@
 {
   "name": "koa-namespace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Namespaces for the koa-router",
   "keywords": [
     "koa",
